@@ -14,7 +14,7 @@ Test süresi boyunca veriler kaydedilir ve test sonunda yüzdesel bir darboğaz 
 ## Kullanım
 
 ```bash
-python tester.py --duration 60 --interval 1 --log logs.csv
+python main.py --duration 60 --interval 1 --log logs.csv
 ```
 
 - `--duration`: Test süresi (saniye cinsinden)
